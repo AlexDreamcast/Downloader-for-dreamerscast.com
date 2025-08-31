@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="avcodec-62.dll" />
+    <None Remove="avdevice-62.dll" />
+    <None Remove="avfilter-11.dll" />
+    <None Remove="avformat-62.dll" />
+    <None Remove="avutil-60.dll" />
+    <None Remove="ffmpeg.exe" />
+    <None Remove="swresample-6.dll" />
+    <None Remove="swscale-9.dll" />
+    <None Remove="yt-dlp.exe" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="avcodec-62.dll" />
+    <EmbeddedResource Include="avdevice-62.dll" />
+    <EmbeddedResource Include="avfilter-11.dll" />
+    <EmbeddedResource Include="avformat-62.dll" />
+    <EmbeddedResource Include="avutil-60.dll" />
+    <EmbeddedResource Include="ffmpeg.exe" />
+    <EmbeddedResource Include="swresample-6.dll" />
+    <EmbeddedResource Include="swscale-9.dll" />
+    <EmbeddedResource Include="yt-dlp.exe" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Costura.Fody" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

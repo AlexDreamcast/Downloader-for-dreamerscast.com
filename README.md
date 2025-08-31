@@ -1,5 +1,8 @@
 # Downloader for dreamerscast.com
 
+⚡ Скачать последнюю версию / Download the latest release:  
+[GitHub Releases](https://github.com/AlexDreamcast/Downloader-for-dreamerscast.com/releases/tag/Publish)
+
 Программа для скачивания аудио и видео с сайта dreamerscast.com.
 
 ---
@@ -28,9 +31,8 @@
 ## Проверка безопасности
 
 Файл программы был проверен на VirusTotal:  
-![Network Screenshot](https://i.imgur.com/2gDsPrQ.png)
+![VirusTotal Screenshot](https://i.imgur.com/2gDsPrQ.png)  
 [Посмотреть результат сканирования](https://www.virustotal.com/gui/file/ea9727c1e5ddc302fed7a2de616ec9ceaf96e9e8aee14923b00f8a412a84bef0)
-
 
 ---
 
@@ -58,6 +60,5 @@
 ## Security Check
 
 The program file has been scanned on VirusTotal:  
-![Network Screenshot](https://i.imgur.com/2gDsPrQ.png)
+![VirusTotal Screenshot](https://i.imgur.com/2gDsPrQ.png)  
 [View scan results](https://www.virustotal.com/gui/file/ea9727c1e5ddc302fed7a2de616ec9ceaf96e9e8aee14923b00f8a412a84bef0)
-

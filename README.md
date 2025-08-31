@@ -17,13 +17,14 @@
    Пример скриншота:  
    ![Network Screenshot](https://i.imgur.com/BxzImAd.png)
 
-3. **Скопируйте ссылку на manifest.mpd**  
-   Вставьте её в программу.  
+3. **Скопируйте ссылку на manifest.mpd**
+    ![Network Screenshot](https://i.imgur.com/rvOvcgo.png)
+    Вставьте её в программу.  
 
-4. **Выберите папку для сохранения**  
+5. **Выберите папку для сохранения**  
    Можно указать любую удобную директорию.  
 
-5. **Скачивание**  
+6. **Скачивание**  
    Нажмите кнопку **Download** — файлы будут загружены в выбранную папку.
 
 ---
@@ -46,13 +47,14 @@
    Example screenshot:  
    ![Network Screenshot](https://i.imgur.com/BxzImAd.png)
 
-3. **Copy the link to manifest.mpd**  
+3. **Copy the link to manifest.mpd**
+   ![Network Screenshot](https://i.imgur.com/rvOvcgo.png)
    Paste it into the program.  
 
-4. **Select the download folder**  
+5. **Select the download folder**  
    You can choose any convenient directory.  
 
-5. **Download**  
+6. **Download**  
    Click the **Download** button — files will be saved to the chosen folder.
 
 ---

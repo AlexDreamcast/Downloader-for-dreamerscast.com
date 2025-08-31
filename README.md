@@ -12,7 +12,7 @@
 2. **Перейдите во вкладку Network**  
    Обновите страницу (`F5`) и найдите файл `manifest.mpd`.  
    Пример скриншота:  
-   ![Network Screenshot](https://imgur.com/gallery/instructions-D9ZVIjV)
+   ![Network Screenshot](https://i.imgur.com/BxzImAd.png)
 
 3. **Скопируйте ссылку на manifest.mpd**  
    Вставьте её в программу.  
@@ -33,7 +33,7 @@
 2. **Go to the Network tab**  
    Refresh the page (`F5`) and find the `manifest.mpd` file.  
    Example screenshot:  
-   ![Network Screenshot](https://imgur.com/gallery/instructions-D9ZVIjV)
+   ![Network Screenshot](https://i.imgur.com/BxzImAd.png)
 
 3. **Copy the link to manifest.mpd**  
    Paste it into the program.  

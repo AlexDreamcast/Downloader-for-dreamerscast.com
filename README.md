@@ -25,6 +25,15 @@
 
 ---
 
+## Проверка безопасности
+
+Файл программы был проверен на VirusTotal:  
+![Network Screenshot](https://i.imgur.com/2gDsPrQ.png)
+[Посмотреть результат сканирования](https://www.virustotal.com/gui/file/ea9727c1e5ddc302fed7a2de616ec9ceaf96e9e8aee14923b00f8a412a84bef0)
+
+
+---
+
 ## Instructions
 
 1. **Open the website in your browser**  
@@ -43,4 +52,12 @@
 
 5. **Download**  
    Click the **Download** button — files will be saved to the chosen folder.
+
+---
+
+## Security Check
+
+The program file has been scanned on VirusTotal:  
+![Network Screenshot](https://i.imgur.com/2gDsPrQ.png)
+[View scan results](https://www.virustotal.com/gui/file/ea9727c1e5ddc302fed7a2de616ec9ceaf96e9e8aee14923b00f8a412a84bef0)
 
